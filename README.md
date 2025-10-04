@@ -56,6 +56,9 @@ Esto significa que la salida del circuito se reutiliza como entrada, permitiénd
 
 ---
 
+Forma de Onda
+<img width="1334" height="187" alt="image" src="https://github.com/user-attachments/assets/b0aac3d5-c7aa-405c-bf4a-ce7caecad2bb" />
+
 
 ✍️ **Autor:**  
 **Jeynner Joel Gutiérrez**
